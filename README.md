@@ -1,2 +1,3 @@
-# gamerxise22
-Website for gamerxise
+# gamerxise22 Website
+
+Live site: https://xstreamflex.github.io/gamerxise22/
